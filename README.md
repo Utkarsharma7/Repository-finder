@@ -13,7 +13,8 @@ A modern, responsive web app to search and explore GitHub repositories by keywor
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](![image](https://github.com/user-attachments/assets/41c2ca79-1b88-4b9e-904c-8df5d63bf0a3))
+
 
 ## Getting Started
 
